@@ -1,7 +1,7 @@
 Game README Description
 Overview
 
-Welcome to our quick-response keyboard game, a thrilling and engaging way to test your reflexes and typing speed! In this game, players are challenged to press specified keys within a set timeframe to earn points. As you progress, the game becomes more challenging, requiring quicker responses to continue accumulating points. Whether you're looking to improve your typing skills or just searching for a fun way to pass the time, this game offers an exciting experience for all.
+Welcome to reaction time keyboard game, a thrilling and engaging way to test your reflexes! In this game, players are challenged to press specified keys within a set timeframe to earn points. As you progress, the game becomes more challenging, requiring quicker responses to continue accumulating points. Whether you're looking to improve your typing skills or just searching for a fun way to pass the time, this game offers an exciting experience.
 
 Features
 
